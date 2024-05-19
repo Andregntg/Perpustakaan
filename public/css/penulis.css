@@ -1,0 +1,48 @@
+/* File: styles.css */
+
+/* Gaya untuk container formulir */
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Gaya untuk label */
+.form-group label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Gaya untuk input teks */
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Gaya untuk tombol */
+.form-group button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* Gaya untuk tombol ketika dihover */
+.form-group button:hover {
+    background-color: #0056b3;
+}
+
+.form-group{
+    font-size: large;
+}
