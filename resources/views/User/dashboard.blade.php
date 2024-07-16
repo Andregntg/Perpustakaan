@@ -13,7 +13,7 @@
                     <a href="{{ route('user.buku.index') }}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300">Lihat Semua</a>
                 </div>
             </div>
-
+            <h2>afuefubfbefbefbe</h2>
             <!-- Penulis Card -->
             <div class="bg-white shadow-md rounded-lg overflow-hidden">
                 <div class="p-6">
