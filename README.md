@@ -1,8 +1,8 @@
-![Welcome Image](https://github.com/Andregntg/Perpustakaan/blob/main/ss%20pbkk/Admin%20Dashboard.jpg?raw=true)
-<p><b>Tampilan Welcome</b></p>
+![Admin Dashboard](https://github.com/Andregntg/Perpustakaan/blob/main/ss%20pbkk/Admin%20Dashboard.jpg?raw=true)
+<p><b>Tampilan Admin</b></p>
 
-![LoginUser Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/LoginUser.png?raw=true)
-<p><b>Login User</b></p>
+![Create Anggota](https://github.com/Andregntg/Perpustakaan/blob/main/ss%20pbkk/Create%20Anggota.jpg?raw=true)
+<p><b>Create Anggota</b></p>
 
 ![View User Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_KepalaSurat.png?raw=true)
 <p><b>View User Kepala Surat</b></p>
